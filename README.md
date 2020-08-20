@@ -14,4 +14,6 @@ Configuracion de conexion en el archivo Conexion.java
 Para poder guardar las preferencias del usuario
 Query en la carpeta Query 
 
+Screenshots:
+
 ![Image](https://github.com/BrunoBeltreGuzman/CRUD-Sql-Server-And-MVC/blob/master/Screenshots.png)
